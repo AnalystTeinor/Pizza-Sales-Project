@@ -66,4 +66,7 @@ The following suggestions can improve customer satisfaction, boost profitability
 -  Introduce a customer loyalty program that incentivizes repeat purchases through discounts, free items, or points-based rewards.
 -  Provide more flexibility in pizza customization to cater to diverse customer preferences, including dietary restrictions.
 
-### 
+
+### Dashboard
+
+![Pizza Sales](https://github.com/user-attachments/assets/7b1f105f-ceeb-4839-9ab6-29e99c0fc394)
